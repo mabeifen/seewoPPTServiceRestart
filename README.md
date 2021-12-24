@@ -1,0 +1,2 @@
+# seewoPPTServiceRestart
+本程序为学校使用希沃一体机的老师们不再受到希沃PPTService异常退出的困扰
