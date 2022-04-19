@@ -1,5 +1,5 @@
 # coding: utf-8
-
+# 希沃PPTService重启小程序 by Misaka-blog
 import os
 import winreg
 import subprocess
